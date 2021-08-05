@@ -1,0 +1,22 @@
+main{
+    display: flex;
+    flex-wrap: wrap;
+    
+    margin: 0 auto;
+    width: 420px;
+    margin-top: 50px ;
+    
+}
+.parede{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border: none;
+    
+}
+.buraco{
+    width: 20px;
+    height: 20px;
+    border: none;
+    color: white;
+}
