@@ -6,6 +6,11 @@ main{
     width: 420px;
     margin-top: 50px ;
     
+}.player{
+    width: 20px;
+    height: 20px;
+    border: none;
+    background-color:green
 }
 .parede{
     width: 20px;
@@ -19,4 +24,17 @@ main{
     height: 20px;
     border: none;
     color: white;
+}
+
+.comeco{
+    width: 20px;
+    height: 20px;
+    border: none;
+    background-color: red;
+}
+.fim{
+    width: 20px;
+    height: 20px;
+    border: none;
+    background-color: rgb(48, 143, 180);
 }
