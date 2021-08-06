@@ -5,8 +5,12 @@ main{
     margin: 0 auto;
     width: 420px;
     margin-top: 50px ;
-    
-}.player{
+
+}
+main .linha{
+    display: flex;
+}
+.player{
     width: 20px;
     height: 20px;
     border: none;
